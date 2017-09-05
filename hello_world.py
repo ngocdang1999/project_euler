@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-name = "Dang"
+name = "Dang 1999"
 print "Hello " + name
