@@ -1,2 +1,2 @@
 # project_euler
-Author: nguyenngocdangabcd@gmail.com
+- *Author*: ngocdang1999
